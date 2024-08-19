@@ -1,9 +1,9 @@
 import React from 'react';
-import styles from '../styles/Footer.module.css';
+import styles from '../styles/footer.module.css';
 
 const Footer = () => (
     <footer className={styles.footer}>
-        <p>© 2021 Desafios: Marcos Vinicius De Sousa Silva.</p>
+        <p>© 2021  Marcos Vinicius De Sousa Silva.</p>
     </footer>
 );
 

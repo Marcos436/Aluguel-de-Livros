@@ -1,0 +1,10 @@
+.mensagemBoasVindas {
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(6, 6, 7);
+    padding: 20px;
+}
+.mensagemsubt{
+    margin-top: -20px;
+}
